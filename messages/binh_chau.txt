@@ -1,0 +1,8 @@
+binh: hello
+chau: sao vay
+binh: 1
+binh: hello
+binh: 1
+binh: ha
+chau: hello
+binh: sao
